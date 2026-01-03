@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Alejandro 👋
 
-<!--
-**Dev-AlejandroMiranda/Dev-AlejandroMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on backend development with Python.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Python
+- REST APIs
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Building backend projects for my portfolio
+- Learning best practices in backend development
+
+## 🌱 Currently Learning
+- FastAPI
+- Backend architecture
+
+## 📫 Contact
+- www.linkedin.com/in/alejandro-vergara-miranda-4293233a4
