@@ -17,4 +17,5 @@ Software Engineering student focused on backend development with Python.
 - Backend architecture
 
 ## 📫 Contact
-- www.linkedin.com/in/alejandro-vergara-miranda-4293233a4
+- Linkedin: www.linkedin.com/in/alejandro-vergara-miranda-4293233a4
+- Email: dev.alejandro.miranda@gmail.com
